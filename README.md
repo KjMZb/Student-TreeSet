@@ -1,4 +1,4 @@
-# Java-Class
+# Student TreeSet
 These Java classes were created to fulfill an assingment in Advanced Object Oriented Programming at Rochester Institute of Technology.
 The assingment called for an implementation of a TreeSet. We were instructed to implement the add, contains, size, isEmpty, and Iterator methods.
 In addition, we were to implement an Iterator to be returned by the Iterator method. 
